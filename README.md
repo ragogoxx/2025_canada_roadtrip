@@ -1,1 +1,11 @@
-Site web qui retrace mon road trip avec mes parents au Canada pendant 3 semaines.
+# Example site for hugo-theme-gallery
+
+## Installation
+
+```
+# Install Hugo module
+hugo mod get
+
+# Pull example images from Unsplash
+./pull-images.sh
+```
