@@ -13,6 +13,11 @@
       <title>Fashion &amp; Beauty</title>
       <link>http://localhost:1313/fashion-beauty/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>garance.rkt@gmail.com (Garance)</author>
-      <guid>http://localhost:1313/fashion-beauty/</guid><description>Fashion and Beauty are a powerful form of self-expression. This category documents style through inspiring shots of street fashion, skincare products, avant-garde editorial photographs, and more.</description></item>
+      <guid>http://localhost:1313/fashion-beauty/</guid>
+        <media:content url="http://localhost:1313/fashion-beauty/mina-rad-V94CguEmeos-unsplash_hu_d94c623fe7d85dcd.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/fashion-beauty/mina-rad-V94CguEmeos-unsplash_hu_d94c623fe7d85dcd.jpg&quot; /&gt;
+          &lt;p&gt;Fashion and Beauty are a powerful form of self-expression. This category documents style through inspiring shots of street fashion, skincare products, avant-garde editorial photographs, and more.&lt;/p&gt;
+        </description></item>
   </channel>
 </rss>

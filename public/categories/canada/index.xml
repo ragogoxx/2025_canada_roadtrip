@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Canada on Ragogoxx Gallery</title>
+    <link>http://localhost:1313/categories/canada/</link>
+    <description>Recent content in Canada on Ragogoxx Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>garance.rkt@gmail.com (Garance)</managingEditor>
+    <webMaster>garance.rkt@gmail.com (Garance)</webMaster>
+    <copyright>© Ragogoxx</copyright>
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/categories/canada/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Toronto</title>
+      <link>http://localhost:1313/canada/cats/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0200</pubDate><author>garance.rkt@gmail.com (Garance)</author>
+      <guid>http://localhost:1313/canada/cats/</guid>
+        <media:content url="http://localhost:1313/canada/cats/manja-vitolic-gKXKBY-C-Dk-unsplash_hu_133278e7c7203118.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/canada/cats/manja-vitolic-gKXKBY-C-Dk-unsplash_hu_133278e7c7203118.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

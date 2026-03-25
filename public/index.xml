@@ -14,21 +14,41 @@
       <title>Fashion &amp; Beauty</title>
       <link>http://localhost:1313/fashion-beauty/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>garance.rkt@gmail.com (Garance)</author>
-      <guid>http://localhost:1313/fashion-beauty/</guid><description>Fashion and Beauty are a powerful form of self-expression. This category documents style through inspiring shots of street fashion, skincare products, avant-garde editorial photographs, and more.</description></item>
+      <guid>http://localhost:1313/fashion-beauty/</guid>
+        <media:content url="http://localhost:1313/fashion-beauty/mina-rad-V94CguEmeos-unsplash_hu_d94c623fe7d85dcd.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/fashion-beauty/mina-rad-V94CguEmeos-unsplash_hu_d94c623fe7d85dcd.jpg&quot; /&gt;
+          &lt;p&gt;Fashion and Beauty are a powerful form of self-expression. This category documents style through inspiring shots of street fashion, skincare products, avant-garde editorial photographs, and more.&lt;/p&gt;
+        </description></item>
     <item>
       <title>Nature</title>
       <link>http://localhost:1313/nature/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>garance.rkt@gmail.com (Garance)</author>
-      <guid>http://localhost:1313/nature/</guid><description>Through photography, the beauty of Mother Nature can be frozen in time. This category celebrates the magic of our planet and beyond — from the immensity of the great outdoors, to miraculous moments in your own backyard.</description></item>
+      <guid>http://localhost:1313/nature/</guid>
+        <media:content url="http://localhost:1313/nature/azzedine-rouichi-ZS_XuDZmxpM-unsplash_hu_bc8f7dba1ceebcfc.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/nature/azzedine-rouichi-ZS_XuDZmxpM-unsplash_hu_bc8f7dba1ceebcfc.jpg&quot; /&gt;
+          &lt;p&gt;Through photography, the beauty of Mother Nature can be frozen in time. This category celebrates the magic of our planet and beyond — from the immensity of the great outdoors, to miraculous moments in your own backyard.&lt;/p&gt;
+        </description></item>
     <item>
-      <title>Cats</title>
-      <link>http://localhost:1313/animals/cats/</link>
+      <title>Toronto</title>
+      <link>http://localhost:1313/canada/cats/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0200</pubDate><author>garance.rkt@gmail.com (Garance)</author>
-      <guid>http://localhost:1313/animals/cats/</guid><description>&lt;no value&gt;</description></item>
+      <guid>http://localhost:1313/canada/cats/</guid>
+        <media:content url="http://localhost:1313/canada/cats/manja-vitolic-gKXKBY-C-Dk-unsplash_hu_133278e7c7203118.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/canada/cats/manja-vitolic-gKXKBY-C-Dk-unsplash_hu_133278e7c7203118.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
     <item>
       <title>Dogs</title>
-      <link>http://localhost:1313/animals/dogs/</link>
+      <link>http://localhost:1313/canada/dogs/</link>
       <pubDate>Thu, 12 Jan 2023 00:00:00 +0100</pubDate><author>garance.rkt@gmail.com (Garance)</author>
-      <guid>http://localhost:1313/animals/dogs/</guid><description>&lt;no value&gt;</description></item>
+      <guid>http://localhost:1313/canada/dogs/</guid>
+        <media:content url="http://localhost:1313/canada/dogs/milli-2l0CWTpcChI-unsplash_hu_393fd4c7921b49c2.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/canada/dogs/milli-2l0CWTpcChI-unsplash_hu_393fd4c7921b49c2.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
   </channel>
 </rss>
